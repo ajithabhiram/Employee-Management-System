@@ -160,7 +160,7 @@ The base Employee class defines common behavior that is implemented by the deriv
 
 Polymorphism
 Polymorphism is demonstrated by calling the same method on different employee objects and allowing each employee role to provide its own implementation
-
+```
 Project Structure--
 Employee-Management-System/
 |
@@ -186,7 +186,7 @@ Employee-Management-System/
 |
 |-- README.md
 
-
+```
 
 Core Modules
 
