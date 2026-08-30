@@ -1,0 +1,55 @@
+[
+    {
+        "employee_id": 101,
+        "name": "Abhiram",
+        "age": 18,
+        "department": "IT",
+        "salary": 50000.0,
+        "role": "Developer",
+        "rating": 4.5,
+        "performance": "Excellent",
+        "incentive": 10000.0,
+        "incentive_percentage": 20,
+        "promotion_status": "Selected for Promotion: Developer -> Senior Developer"
+    },
+    {
+        "employee_id": 102,
+        "name": "Test User",
+        "age": 22,
+        "department": "Finance",
+        "salary": 50000.0,
+        "role": "Developer",
+        "rating": 4.5,
+        "performance": "Excellent",
+        "incentive": 10000.0,
+        "incentive_percentage": 20,
+        "promotion_status": "Not Available"
+    },
+    {
+        "employee_id": 103,
+        "name": "Intern Test",
+        "age": 20,
+        "department": "IT",
+        "salary": 20000.0,
+        "role": "Intern",
+        "rating": 4.0,
+        "performance": "Very Good",
+        "incentive": 3000.0,
+        "incentive_percentage": 15,
+        "promotion_status": "Not Available"
+    },
+    {
+        "employee_id": 104,
+        "name": "Senior Test",
+        "age": 18,
+        "department": "IT",
+        "salary": 80000.0,
+        "role": "SeniorDeveloper",
+        "rating": 4.5,
+        "performance": "Excellent",
+        "incentive": 16000.0,
+        "incentive_percentage": 20,
+        "promotion_status": "Selected for Promotion: Senior Developer -> Manager",
+        "experience": 5
+    }
+]
